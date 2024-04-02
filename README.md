@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ellizyben
 - 👀 I’m interested in ...coding and ethical hacking
-- 🌱 I’m currently learning ...css,html and javascript
+- 🌱 I’m currently learning ...css,html,javascript and c++
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...email
   
